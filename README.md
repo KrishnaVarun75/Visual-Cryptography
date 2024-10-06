@@ -105,6 +105,4 @@ Once all votes are cast, the server reconstructs the votes from the cryptographi
 
 This project demonstrates the use of visual cryptography to build a secure e-voting system. By splitting votes into encrypted shares and reconstructing them only with full access to all shares, we ensure the confidentiality and security of the voting process. This system is resistant to tampering, unauthorized access, and provides a safe mechanism for tallying votes.
 
-## License
 
-This project is licensed under the MIT License.
