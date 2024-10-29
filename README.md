@@ -98,7 +98,7 @@ Once all votes are cast, the server reconstructs the votes from the cryptographi
 ├── Server.py       
 ├── crypto.py    
 ├── elections_results.db  
-└── README.md      
+     
 ```
 
 ## Conclusion
