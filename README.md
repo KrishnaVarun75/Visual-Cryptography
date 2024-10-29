@@ -94,11 +94,11 @@ Once all votes are cast, the server reconstructs the votes from the cryptographi
 ## Project Structure
 
 ```bash
-├── Client.py        # Client-side voting application with Tkinter interface
-├── Server.py        # Server-side application for handling connections and vote tallying
-├── crypto.py        # Cryptographic functions for image processing and vote encryption
-├── elections_results.db   # SQLite database for storing voter details and encrypted shares
-└── README.md        # Project documentation
+├── Client.py        
+├── Server.py       
+├── crypto.py    
+├── elections_results.db  
+└── README.md      
 ```
 
 ## Conclusion
